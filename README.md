@@ -14,8 +14,8 @@ The dataset used for this project is available on Kaggle. It contatins data for 
 https://www.kaggle.com/datasets/harlfoxem/housesalesprediction/data
 
 ## Tools
-Tableau
-Python
+1. Tableau
+2. Python
 
 ## Link to Tableau storyboard
 https://public.tableau.com/app/profile/brandon.lu3005/viz/KingCountyRegressionAnalysis/Story1
